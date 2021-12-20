@@ -1,5 +1,5 @@
 profiles:
-    active: docker
+  active: docker
 
 eureka:
   instance:
